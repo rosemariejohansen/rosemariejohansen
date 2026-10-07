@@ -17,11 +17,15 @@ C++ · C · Python · JavaScript · TypeScript
 
 **Tools & Technologies**
 
-Git · CMake · Linux · Godot · Unreal Engine
+Git · CMake · Linux · Godot · Unreal Engine · Docker · Redis · PostgreSQL
+
+**Networking**
+
+TCP/IP · UDP · Boost.Asio · ENet · WebSocket
 
 **Frameworks**
 
-Next.js, PostgreSQL, Redis, Auth.js
+Next.js, Auth.js, gRPC
 
 ## What I'm Interested In
 
