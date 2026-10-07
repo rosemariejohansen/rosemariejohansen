@@ -1,16 +1,33 @@
-## Hi there 👋
+**C++ · Game Development · Computer Science**
 
-<!--
-**rosemariejohansen/rosemariejohansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on C++, game development, algorithms, and the fundamentals behind AI and machine learning.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning modern **C++** and software design
+- Building projects from scratch to understand how things work under the hood
+- Studying algorithms and data structures
+- Exploring **game development** and multiplayer systems
+
+## Tech
+
+**Languages**
+
+C++ · C · Python · JavaScript · TypeScript
+
+**Tools & Technologies**
+
+Git · CMake · Linux · Godot · Unreal Engine
+
+**Frameworks**
+
+Next.js
+
+## What I'm Interested In
+
+- C++ and systems programming
+- Game engines and gameplay systems
+- Multiplayer architecture and game servers
+- Algorithms & data structures
+- Machine learning fundamentals
+- Software architecture
