@@ -4,10 +4,10 @@ I'm a developer focused on C++, game development, algorithms, and the fundamenta
 
 ## Currently
 
-- Learning modern **C++** and software design
+- Learning modern C++ and software design
 - Building projects from scratch to understand how things work under the hood
 - Studying algorithms and data structures
-- Exploring **game development** and multiplayer systems
+- Exploring game development and multiplayer systems
 
 ## Tech
 
@@ -21,7 +21,7 @@ Git · CMake · Linux · Godot · Unreal Engine
 
 **Frameworks**
 
-Next.js
+Next.js, PostgreSQL, Redis, Auth.js
 
 ## What I'm Interested In
 
