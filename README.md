@@ -1,11 +1,6 @@
 **Software Engineer · C++ · Game Systems · Computer Science**
 
-I build systems software, game engines, and network architectures from the ground up, with a core focus on modern C++, performance optimization, and mechanical sympathy.
-
-- Designing custom engines and gameplay systems to master what happens under the hood
-- Implementing low-latency multiplayer architectures and network protocols (TCP/UDP)
-- Exploring computational foundations: algorithmic design, data structures, and ML primitives
-- Developing cross-platform tools and infrastructure using CMake, Linux, and modern containerization
+I build systems software, game engines, and network architectures from the ground up, with a core focus on modern C++ and performance optimization.
 
 ---
 
